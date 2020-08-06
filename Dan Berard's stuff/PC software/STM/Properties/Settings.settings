@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="STM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="saveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\</Value>
+    </Setting>
+    <Setting Name="xyBits" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="zBits" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="biasBits" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="xyLSBsize" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.00159168243</Value>
+    </Setting>
+    <Setting Name="zLSBsize" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.00063133239</Value>
+    </Setting>
+    <Setting Name="biasLSBsize" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.30517578125</Value>
+    </Setting>
+    <Setting Name="transimpedance" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="setpointLSBsize" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.30517578125</Value>
+    </Setting>
+    <Setting Name="eBits" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="setpointBits" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

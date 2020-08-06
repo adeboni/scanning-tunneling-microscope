@@ -1,0 +1,5 @@
+LTC2326_16  	KEYWORD1
+convert		KEYWORD2
+getBusyStatus	KEYWORD2
+begin    	KEYWORD2
+read		KEYWORD2
