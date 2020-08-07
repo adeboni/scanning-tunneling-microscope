@@ -7,3 +7,5 @@ This repository contains schematics I made in order to fully build Dan Berard's 
 ![Device photo 1](https://github.com/adeboni/scanning-tunneling-microscope/blob/master/Device%20photos/IMG_20200807_131444.jpg)
 
 ![Device photo 2](https://github.com/adeboni/scanning-tunneling-microscope/blob/master/Device%20photos/IMG_20200807_131548.jpg)
+
+![Tip](https://github.com/adeboni/scanning-tunneling-microscope/blob/master/Device%20photos/tip.tif)
